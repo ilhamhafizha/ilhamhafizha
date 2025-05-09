@@ -1,7 +1,7 @@
 <h1>Hello World! 👋🏼</h1>
 <p>I'm Ilham, a passionate in Software Engineering. I started learning in 2020 exploring various technologies, but in 2024, I am focusing more deeply with enthusiasm and dedication to enhance my skills in software development🚀  
 </p>
-<p>Always eager to learn, build, and innovate! 🚀  </p>
+<p>I am always eager to learn new technologies, develop innovative solutions, and collaborate with teams to create high-quality products. I am also open to exploring other areas within IT where I can build and innovate! 🚀</p>
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
