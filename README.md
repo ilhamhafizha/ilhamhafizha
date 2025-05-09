@@ -1,5 +1,5 @@
 <h1>Hello World! 👋🏼</h1>
-<p>I'm Ilham, a passionate learner in Software Engineering. I started learning in 2020 exploring various technologies, but in 2024, I am focusing more deeply with enthusiasm and dedication to enhance my skills in software development🚀  
+<p>I'm Ilham, a passionate in Software Engineering. I started learning in 2020 exploring various technologies, but in 2024, I am focusing more deeply with enthusiasm and dedication to enhance my skills in software development🚀  
 </p>
 <p>Always eager to learn, build, and innovate! 🚀  </p>
 
